@@ -105,6 +105,7 @@ nav:
     - clases/README.md
     - Teoría:
       - Teórica 1: clases/teorica1.md
+<!--
       - Teórica 2: clases/teorica2.md
       - Teórica 3: clases/teorica3.md
       - Teórica 4: clases/teorica4.md
@@ -114,12 +115,4 @@ nav:
       - Teórica 8: clases/teorica8.md
       - Teórica 9: clases/teorica9.md
       - Teórica 10: clases/teorica10.md
-  - Guías de ejercicios: 
-    - ejercicios/README.md
-    - Guía 1: ejercicios/guia1.md
-    - Guía 2: ejercicios/guia2.md
-    - Guía 3: ejercicios/guia3.md
-    - Guía 4: ejercicios/guia4.md
-    - Guía 5: ejercicios/guia5.md
-    - Guía 6: ejercicios/guia6.md
-    - Guía 7: ejercicios/guia7.md
+-->
