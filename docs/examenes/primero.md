@@ -1,3 +1,0 @@
-# Enunciados primer parcial
-
-
