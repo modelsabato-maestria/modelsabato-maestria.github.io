@@ -5,7 +5,7 @@
 - [Notebook](https://drive.google.com/file/d/17SNk65N-yEGxZzDMxnvKOi778X_Y0_4h)  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17SNk65N-yEGxZzDMxnvKOi778X_Y0_4h)
 
 ## archivos auxiliares
-- [![figura sistema mixto](https://drive.google.com/file/d/12u5Wqj9lCFbHuw9NExiQjCIx633gWOEH)](https://drive.google.com/file/d/12u5Wqj9lCFbHuw9NExiQjCIx633gWOEH)  
+- [![figura sistema mixto](img/fig_2_1_2.png)](https://drive.google.com/file/d/12u5Wqj9lCFbHuw9NExiQjCIx633gWOEH)  
 
 # Interpolación Polinomial
 
@@ -27,6 +27,6 @@
 
 ## archivos auxiliares
 
-- [![figura programacion lineal](https://drive.google.com/file/d/1ywKLFR4teIViRcs1AdFCUVV0tNbey-LX)](https://drive.google.com/file/d/1ywKLFR4teIViRcs1AdFCUVV0tNbey-LX/)  
+- [![figura programacion lineal](img/linprog_1.png)](https://drive.google.com/file/d/1ywKLFR4teIViRcs1AdFCUVV0tNbey-LX/)  
 - [velocidad_corrosion.csv](https://drive.google.com/file/d/1fqx0K2d5Vep4tz_fPYirUzoBm8B0N1ur)
  
