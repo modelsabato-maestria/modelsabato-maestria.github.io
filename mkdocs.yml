@@ -103,6 +103,8 @@ nav:
     - clases/README.md
     - Teoría:
       - Teórica 1: clases/teorica1.md
+      - Teórica 2: clases/teorica2.md
+      - Teórica 3: clases/teorica3.md
     - Práctica:
       - Práctica 1: clases/practica1.md
       - Práctica 2: clases/practica2.md
