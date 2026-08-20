@@ -111,5 +111,6 @@ nav:
     - Práctica:
       - Práctica 1: clases/practica1.md
       - Práctica 2: clases/practica2.md
+      - Ejercicio ecuaciones diferenciales ordinarias: clases/edo.md
       - Ejercicio diferencias finitas - chapa: clases/ejercicio_chapa.md
       - Ejercicio diferencias finitas: clases/ejercicio_dif_finitas.md
