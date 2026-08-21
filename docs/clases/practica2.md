@@ -25,7 +25,9 @@
 
 <iframe src="https://drive.google.com/file/d/1u5XVHZZPkVORVf68xCFo0PQ9aOqvG9Oj/preview" width="640" height="480"></iframe>
 
-- [Notebook](https://drive.google.com/file/d/1A3c_nAIcm2DKd0Xnd6aYDro8umXg5pUi)  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1A3c_nAIcm2DKd0Xnd6aYDro8umXg5pUi)
+- [Notebook Método del Gradiente](https://drive.google.com/file/d/1rX3lUMjKRS9tEkrED-cYUUNK8KFZqFba)  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rX3lUMjKRS9tEkrED-cYUUNK8KFZqFba)
+
+- [Notebook con ejemplos](https://drive.google.com/file/d/1A3c_nAIcm2DKd0Xnd6aYDro8umXg5pUi)  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1A3c_nAIcm2DKd0Xnd6aYDro8umXg5pUi)
 
 ### archivos auxiliares
 
