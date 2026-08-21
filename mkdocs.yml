@@ -115,3 +115,4 @@ nav:
       - Ejercicio ecuaciones diferenciales ordinarias: clases/edo.md
       - Ejercicio diferencias finitas - chapa: clases/ejercicio_chapa.md
       - Ejercicio diferencias finitas: clases/ejercicio_dif_finitas.md
+      - Transporte neutrónico por Monte Carlo: clases/transporte_mc.md
