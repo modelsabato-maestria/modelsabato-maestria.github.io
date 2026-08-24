@@ -10,3 +10,5 @@
 
 - [ANN elemental](https://drive.google.com/file/d/1l6j46Rw3SIiwygg-ypbSlscrwbqbCyl6)
 - [ANN un poco más evolucionada](https://drive.google.com/file/d/16rqcLccxZRpWcrXe9m7c6OuGwP5WowgG)
+- [Clasificador de imágenes con PyTorch](https://drive.google.com/file/d/1hE9DNinU3W15upCDxwsDHJlIpb_0eTUf/view?usp=drive_link)
+- [Aprendizaje de la dinámica de sistemas no lineales con SINDy](https://drive.google.com/file/d/1f9vnw-3TyEgpDIdMvnePkLLWQe5M0pT5/view?usp=drive_link)
